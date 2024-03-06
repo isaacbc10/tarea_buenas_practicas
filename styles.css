@@ -49,3 +49,12 @@ body hr {
     display: inline; 
     margin: 0; 
 }
+
+.hobbies-section {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.hobby-images-container p {
+    font-weight: bold;
+}
