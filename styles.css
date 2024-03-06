@@ -20,3 +20,32 @@ header {
 body hr {
     border-color: black;
 }
+
+.student-info {
+    text-align: center;
+}
+
+.student-info h2 {
+    margin: 20px 0;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.student-info p {
+    margin: 5px 0;
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+}
+
+.studentp-info h4,
+.studentp-info p {
+    display: inline; 
+    margin: 0; 
+}
+
+.semester-info h4,
+.semester-info p {
+    display: inline; 
+    margin: 0; 
+}
