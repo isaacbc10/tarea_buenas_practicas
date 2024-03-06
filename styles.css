@@ -77,3 +77,23 @@ body hr {
     flex: 1;
     text-align: center;
 }
+
+.series-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.series-section {
+    flex: 1;
+    text-align: center;
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+.series-section h3 {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
